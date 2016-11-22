@@ -1,5 +1,0 @@
-DFgJ5!s0PFS1
-
-FTP Username: crthub@site.goigi.me
-FTP server: ftp.goigi.me
-FTP & explicit FTPS port:  21
